@@ -36,7 +36,7 @@ heroes = [
     Hero("Elf", 50, 100, 20),
     Hero("Bear", 50, 100, 20)
 ]
-
+#wleowleo
 
 def player_action(hero1, hero2):
     actions = {1: hero1.attack, 2: hero1.heal, 3: hero1.buff}
